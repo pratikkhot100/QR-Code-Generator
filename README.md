@@ -39,5 +39,13 @@ Check out the live demo of the Currency Converter : [Demo](https://pratikkhot-qr
 
 ---
 
+## 📞 Contact Information
+
+  🐙 GitHub: https://github.com/pratikkhot100
+
+  💼 LinkedIn: https://www.linkedin.com/in/pratikkhot01
+
+  📧 Email: pratikkhot1207@gmail.com
+  
 
 
