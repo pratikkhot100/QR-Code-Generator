@@ -1,6 +1,6 @@
 # 📱 QR Code Generator
 
-A **responsive QR Code Generator** built using **HTML**, **CSS**, and **JavaScript**. Easily generate QR codes for any text or URL input — mobile-friendly and minimalistic design.
+A responsive QR Code Generator built using HTML, CSS, and JavaScript. Easily generate QR codes for any text or URL input with a clean, mobile-friendly interface and minimalistic design. The app uses JavaScript to dynamically interact with a QR code API and instantly update the QR image based on user input. Additionally, JavaScript handles input validation and provides real-time feedback, ensuring smooth and efficient user interaction.
 
 ## 🎥 Project Demo
 
