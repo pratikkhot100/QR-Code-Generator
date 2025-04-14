@@ -35,7 +35,7 @@ Check out the live demo of the Currency Converter : [Demo](https://pratikkhot-qr
 - HTML5
 - CSS3 (Flexbox & Media Queries)
 - JavaScript 
-- [QR Code API](https://goqr.me/api/) or [QRCode.js](https://github.com/davidshimjs/qrcodejs) (depending on implementation)
+- [QR Code API](https://goqr.me/api/)
 
 ---
 
