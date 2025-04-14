@@ -18,6 +18,15 @@ Check out the live demo of the Currency Converter : [Demo](https://pratikkhot-qr
 
 ---
 
+## 🛠 Tech Stack
+
+- **HTML5** – Markup structure
+- **CSS3** – Styling and responsive layout (Flexbox / Grid)
+- **JavaScript (ES6+)** – Interactivity and API handling
+- **API** – (e.g. OpenWeather, JSONPlaceholder, or your chosen one)
+
+---  
+
 ## 📸 Some Screenshots for the project:
 
 
