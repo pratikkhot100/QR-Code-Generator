@@ -4,7 +4,7 @@ A responsive QR Code Generator built using HTML, CSS, and JavaScript. Easily gen
 
 ## 🎥 Project Demo
 
-Check out the live demo of the Currency Converter : [Demo](https://pratikkhot-qr-code-generator.netlify.app/)
+   Check out the live demo of the Currency Converter : [Demo](https://pratikkhot-qr-code-generator.netlify.app/)
 
 ---
 
